@@ -1,4 +1,5 @@
 teste teste testes testes te stestets testest tset setsetsetsetse
+<<<<<<< HEAD
 Executando teste para utilizar o branch 1
 Executando teste para utilizar o branch 2
 Executando teste para utilizar o branch 3
@@ -16,4 +17,7 @@ Executando teste para utilizar o branch 7
 ---- trabalho terminado -----
 
  
+=======
+Erro corrigido
+>>>>>>> master
 
